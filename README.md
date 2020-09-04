@@ -1,6 +1,6 @@
 # afr_lerp
 
-Linearly interpolates each cell pair in 'map1_path' & 'map2_path' between 'lerp_start' and 'lerp_end', and outputs the result in 'output_path'.
+Linearly interpolates each cell pair in 'map1_path' & 'map2_path' between 'lerp_start' and 'lerp_end' and outputs the result in 'output_path'.
 
 Map files are text files in "tab separated variable" format. This format can be copy-pasted from and to Excel.
 
