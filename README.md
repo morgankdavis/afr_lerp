@@ -10,4 +10,4 @@ There should be an empty new line at the bottom of each tsv file.
 See "example_map.tsv".
 
 Usage:
-   ```python3 afr_lerp <map1_path> <map2_path> <output_path> <lerp_start> <lerp_end>```
+   ```python3 afr_lerp.py <map1_path> <map2_path> <output_path> <lerp_start> <lerp_end>```
